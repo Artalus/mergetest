@@ -1,1 +1,2 @@
 i add a new file
+then i edit file in separate branch
